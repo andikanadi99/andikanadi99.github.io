@@ -1,6 +1,6 @@
-# Ascend – Habit & Schedule Support
+# Ascento – Habit & Schedule Support
 
-Welcome to the official support repository for **Ascend: Personal Growth**. This page provides documentation, troubleshooting tips, and contact information to help you get the most out of Ascend.
+Welcome to the official support repository for **Ascento**. This page provides documentation, troubleshooting tips, and contact information to help you get the most out of Ascento.
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to the official support repository for **Ascend: Personal Growth**. This
 ---
 
 ## Description
-Ascend helps you turn intentions into consistent progress by keeping your priorities visible and habits trackable. With intuitive planning and gentle accountability, you’ll build momentum one day at a time.
+Ascento helps you turn intentions into consistent progress by keeping your priorities visible and habits trackable. With intuitive planning and gentle accountability, you’ll build momentum one day at a time.
 
 ---
 
@@ -51,7 +51,7 @@ Ascend helps you turn intentions into consistent progress by keeping your priori
 ---
 
 ## Getting Started
-1. **Download Ascend** from the App Store on your iPhone or iPad.
+1. **Download Ascento** from the App Store on your iPhone or iPad.
 2. **Sign in / Create Account** using your email or Apple ID.
 3. **Add your first habit**:
    - Tap **Add Habit** on the Habits list.
@@ -98,7 +98,7 @@ A: Days with no completed habits display in soft red. To log retroactive complet
 A: Press the trash icon next to the habit to remove it; this deletes all associated records permanently.
 
 **Q: How do I export or backup my data?**  
-A: Ascend automatically syncs with iCloud/Firebase. Your data is backed up and restores on any signed-in device.
+A: Ascento automatically syncs with iCloud/Firebase. Your data is backed up and restores on any signed-in device.
 
 **Q: How can I adjust reminder times?**  
 A: Go to **Settings → Reminders** to customize notification schedules.
@@ -106,7 +106,7 @@ A: Go to **Settings → Reminders** to customize notification schedules.
 ---
 
 ## Contact & Support
-For further assistance, open an [issue on GitHub](https://github.com/andikanadi99/ascend-support/issues) or email us at **support@ascendapp.app**. We aim to respond within 24 hours.
+For further assistance, open an [issue on GitHub](https://github.com/andikanadi99/Ascento-support/issues) or email us at **support@Ascentoapp.app**. We aim to respond within 24 hours.
 
-© 2025 Ascend, Inc. All rights reserved.
+© 2025 Ascento, Inc. All rights reserved.
 
